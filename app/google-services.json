@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52031950275",
+    "firebase_url": "https://lucraredelicenta-a5e0f-default-rtdb.firebaseio.com",
+    "project_id": "lucraredelicenta-a5e0f",
+    "storage_bucket": "lucraredelicenta-a5e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52031950275:android:d97bdb87ff663952888176",
+        "android_client_info": {
+          "package_name": "com.example.thesisandroidapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52031950275-k5if1c6tbp5b5g2m9jisjob5uijfld2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKrcBZFrvSYA1YVIeWSpXmmiXP8Tru7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52031950275-k5if1c6tbp5b5g2m9jisjob5uijfld2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
